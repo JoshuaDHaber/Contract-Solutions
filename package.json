@@ -83,7 +83,7 @@
     "email-validator": "^2.0.4",
     "excel-date-to-js": "^1.0.2",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "express-session": "^1.17.0",
     "file-saver": "^2.0.2",
     "glob": "^7.1.6",
